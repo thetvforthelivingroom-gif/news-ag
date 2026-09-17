@@ -33,4 +33,11 @@ footer.site .wrap {display:flex;justify-content:space-between;gap:10px;flex-wrap
 .hero-img {margin:22px 0 24px}
 .hero-img img {width:100%;height:auto;border-radius:12px;display:block;background:#22334d}
 .credit {font-size:12px;color:#8a909a;margin:6px 2px 0}
+.sources ol {margin:6px 0 10px;padding-left:22px}
+.sources li {margin:0 0 7px;font-size:13.5px;line-height:1.45}
+.sources .pub {font-weight:700;color:#333}
+.sources a {color:#b3402a;text-decoration:none;word-break:break-word}
+.sources a:hover {text-decoration:underline}
+.srcnote {font-size:12px;color:#8a909a;margin:6px 0 0}
+.cite a {text-decoration:none;color:#b3402a;font-size:11px;padding:0 1px}
 .card img {background:#22334d}
